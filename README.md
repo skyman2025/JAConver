@@ -25,6 +25,5 @@
 <br>
 
 <p align="center" >
-     <img src="https://user-images.githubusercontent.com/110739445/206951485-8cc1df63-20f7-4c18-85da-2ab9f01b5e02.gif">
      <img src="https://github.com/skyman2025/JAConver/blob/main/public/convergif.gif">
 </p>
